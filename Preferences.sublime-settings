@@ -1,0 +1,14 @@
+{
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".gem",
+		".git"
+	],
+	"font_size": 15.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2
+}
